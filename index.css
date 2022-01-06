@@ -1,0 +1,304 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+.mask {
+  /* width: 1300px; */
+  /* height: 541px; */
+  display: flex;
+  justify-content: space-around;
+}
+.doctors {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+  margin-top: 50px;
+}
+
+.doctor {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pediatric-bmt {
+  margin-top: 30px;
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 24px;
+  letter-spacing: 0.99px;
+  line-height: 44px;
+  text-align: center;
+}
+
+.bitmap-copy {
+  margin-left: 142px;
+}
+
+.dr-vijay-agarwal-copy {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 22px;
+  letter-spacing: 1.76px;
+  line-height: 26px;
+  text-align: center;
+  padding-top: 29px;
+}
+
+.md-mrcp-ph-d-cct-le-copy {
+  color: #1d5aa6;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  line-height: 15px;
+  text-align: center;
+}
+
+.line-5-copy {
+  border: 1px solid #22b78e;
+  width: 37px;
+  height: 1px;
+  margin-left: 255px;
+}
+
+.dr-vijay-agarwal-is-copy {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  line-height: 20px;
+  width: 423px;
+  text-align: center;
+  margin-left: 58px;
+}
+
+.rectangle9 {
+  background-color: skyblue;
+  border-radius: 4px;
+  width: 129px;
+  height: 49px;
+  align-items: center;
+  margin-left: 205px;
+}
+
+.know-more {
+  color: #ffffff;
+  font-family: StagSans;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.rectangle12 {
+  background-color: #f9f9ff;
+  border-radius: 4px;
+  width: 539px;
+  padding-bottom: 29px;
+}
+
+.line-3-copy-13 {
+  border: 1px solid #ececff;
+  width: 415px;
+  height: 2px;
+  margin-left: 60px;
+}
+.testimonials {
+  color: #22b78e;
+  font-family: StagSans;
+  font-size: 31px;
+  letter-spacing: 1.28px;
+  line-height: 44px;
+  text-align: left;
+}
+
+.rectangle21 {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 9px 8px 27px 0 rgba(0, 0, 0, 0.04);
+  width: 517px;
+  height: 249px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 41px;
+}
+
+.john-doe {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.softwere-engineer {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: -15px;
+}
+
+.it-is-a-long-establi {
+  color: #000000;
+  font-family: StagSans;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 21px;
+  width: 410px;
+  text-align: left;
+}
+
+.imgsss {
+  display: flex;
+  justify-content: start;
+}
+
+.testi1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.book-an-appoinment {
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17.14px;
+  line-height: 21px;
+  text-align: left;
+}
+
+body {
+  background-image: url(Banner_mage.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+#ss {
+  font-family: Poppins;
+  color: white;
+  align-items: flex-end;
+}
+#mm {
+  margin-top: 30px;
+}
+#m {
+  margin-top: 45px;
+}
+h5 {
+  margin-top: 20px;
+}
+button {
+  color: white;
+  background-color: rgb(241, 50, 50);
+  padding: 5px;
+  border-radius: 2px;
+}
+.enquiryform {
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 5);
+  margin: 50px auto;
+  width: 350px;
+  text-align: center;
+  padding-bottom: 5px;
+  position: absolute;
+  top: -20px;
+  left: 870px;
+  background: white;
+}
+.enquiryform h2 {
+  text-align: left;
+  margin-top: 0;
+  padding: 10px;
+  color: black;
+}
+.enquiryform input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 0.5px solid black;
+}
+.enquiryform textarea {
+  width: 90%;
+  margin: 5px auto;
+  padding: 10px;
+  height: 80px;
+  border: 0.5px solid black;
+}
+.submitbtn {
+  cursor: pointer;
+  width: 150px !important;
+  margin-left: 18px !important;
+  background: rgb(243, 48, 48);
+  color: white;
+}
+#cc {
+  margin-top: 250px;
+}
+.card {
+  height: 200px;
+  width: 250px;
+}
+.row {
+  margin-top: 40px;
+}
+.card-body:hover {
+  background-color: lightblue;
+}
+#rr {
+  font-weight: 700;
+  font-size: medium;
+}
+.social {
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+#jj {
+  background-color: black;
+  padding: 25px;
+}
+hr {
+  color: rgb(155, 144, 144);
+}
+#foo {
+  text-align: center;
+  color: white;
+  word-spacing: 10px;
+}
+#h:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(28, 189, 253),
+    rgb(21, 117, 155),
+    rgb(5, 42, 56)
+  );
+  color: white;
+}
+#ho:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(28, 189, 253),
+    rgb(21, 117, 155),
+    rgb(5, 42, 56)
+  );
+  color: white;
+}
+#hov:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(28, 189, 253),
+    rgb(21, 117, 155),
+    rgb(5, 42, 56)
+  );
+  color: white;
+}
+#hos:hover {
+  background-image: linear-gradient(
+    to right,
+    rgb(28, 189, 253),
+    rgb(21, 117, 155),
+    rgb(5, 42, 56)
+  );
+  color: white;
+}
